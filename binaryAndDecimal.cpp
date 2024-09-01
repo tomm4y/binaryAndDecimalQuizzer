@@ -1,7 +1,7 @@
 // Thomas Le
 // Converting from binary to decimal and vice versa
-// Program implemented using power series from base2 -> base10
-// and successive subtraction of 2 to the highest degree until 0
+// From base2 -> base10 uses power series  
+// and from base10 -> base10 uses successive subtraction of 2 to the highest degree until 0
 #include <iostream>
 #include <list>
 #include <string>
