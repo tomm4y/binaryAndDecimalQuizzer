@@ -2,6 +2,7 @@
 
 Quiz program I made based on how binary and decimals can be converted manually by hand.
 Didn't implement hexadecimals or octals because I'm lazy.
+Mainly made to help me learn c++ syntax better...
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 # Yapping here:
